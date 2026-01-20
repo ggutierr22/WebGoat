@@ -28,10 +28,10 @@ jobs:
 
            - name: Verify repository structure
 
-       		 run: |
+        	run: |
 
-          		echo "Repository structure verified"
+          	echo "Repository structure verified"
 
-          		ls -la
+          	ls -la
 
-         		 echo "WebGoat successfully set up!"
+          	echo "WebGoat successfully set up!"
